@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: "/home/user/asf/cloner/gh/clones/A_gsa_datafiles-wordpress-plugin"
+baselineLinesOfCode: 29
+unicodeNewlines: true
+columnKind: "utf16"
+primaryLanguage: "javascript"
+creationMetadata:
+  sha: "666ebf20ef3ad0a5a8fb2c93cde46fa979cc43c9"
+  cliVersion: "2.11.1"
+  creationTime: "2022-12-13T22:52:33.077327553Z"
